@@ -26,7 +26,7 @@ restriction, and the account is the asset. Hence two halves.
 ## Install
 
 ```bash
-git clone https://github.com/prosp-ai/claude-linkedin-connector
+git clone https://github.com/JackJProsp/claude-linkedin-connector
 cd claude-linkedin-connector
 ./install.sh
 ```
